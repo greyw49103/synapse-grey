@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Grey.NoteService/bin/Debug/net8.0
+/Grey.NoteService/obj
+/Grey.NoteService.Test/bin/Debug/net8.0
+/Grey.NoteService.Test/obj
+/Grey.SignalBooster/.vs/Grey.SignalBooster
+/Grey.SignalBooster/bin/Debug/net8.0
+/Grey.SignalBooster/obj
+/Technical Assessment.zip
