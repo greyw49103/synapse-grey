@@ -19,8 +19,9 @@
      - Configurability for file paths and API endpoints.
    
 📄 Instructions to run the project:
-     - Ensure .NET SDK is installed.
-     - Open the solution in Visual Studio.
-     - Set Grey.SignalBooster as the startup project .   
-     - Run the project.
-     - Grey.NoteService.Test contains xUnit tests for the Grey.NoteService project. The tests can be run independently of Grey.SignalBooster. 
+
+   - Ensure .NET SDK is installed.
+   - Open the solution in Visual Studio.
+   - Set Grey.SignalBooster as the startup project.
+   - Run the project.
+   - Grey.NoteService.Test contains xUnit tests for the Grey.NoteService project. The tests can be run independently of Grey.SignalBooster. 
